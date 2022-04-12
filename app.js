@@ -3,7 +3,7 @@ let sumDistinctTwo = 0;
 let sumOverLappingOne = 0;
 let sumOverLappingTwo = 0;
 
-//Add distinct elements using two different methods
+//Add distinct elements using two different methods;;;
 function addDistinctOne(arr1, arr2) {
   for (i = 0; i < arr1.length; i++) {
     for (j = 0; j < arr2.length; j++) {
